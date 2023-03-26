@@ -1,4 +1,4 @@
-it's time to practice version controller.
+i already learn more version controller system.
 i am trying to upgrade my version controller skill.
 now i am working with remote to local repository.
 now i have to learn more about verssion comtroller.
